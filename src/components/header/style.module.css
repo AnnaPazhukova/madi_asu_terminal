@@ -1,0 +1,25 @@
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #07133a;
+    height: 200px;
+    width: 90%;
+    margin: 10px auto 5px auto;
+    
+}
+
+.title {
+    display: flex;
+    align-items: center;
+}
+
+.title h1{
+    margin-left: 0
+}
+.title p{
+    margin: 0 auto;
+}
+
+.data {
+    background-color: #07133a;
+    text-align: center;
+}
